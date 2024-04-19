@@ -1,11 +1,3 @@
-'''
-Computer Simulation Project
-Author: Petros Zantis
-
-The following class, CelestialBody, is used to describe any body within a Solar System.
-Depending on the given parameters, an instance of this class can represent a star, a planet,
-a moon, a satellite etc.
-'''
 import numpy as np
 import numpy.linalg as linAlg
 
